@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crowdfunding-page-demo/static/css/main.a617e044.chunk.css",
+    "main.js": "/crowdfunding-page-demo/static/js/main.963f0e10.chunk.js",
+    "main.js.map": "/crowdfunding-page-demo/static/js/main.963f0e10.chunk.js.map",
+    "runtime-main.js": "/crowdfunding-page-demo/static/js/runtime-main.62952142.js",
+    "runtime-main.js.map": "/crowdfunding-page-demo/static/js/runtime-main.62952142.js.map",
+    "static/js/2.55ef4b06.chunk.js": "/crowdfunding-page-demo/static/js/2.55ef4b06.chunk.js",
+    "static/js/2.55ef4b06.chunk.js.map": "/crowdfunding-page-demo/static/js/2.55ef4b06.chunk.js.map",
+    "static/js/3.e6bf1039.chunk.js": "/crowdfunding-page-demo/static/js/3.e6bf1039.chunk.js",
+    "static/js/3.e6bf1039.chunk.js.map": "/crowdfunding-page-demo/static/js/3.e6bf1039.chunk.js.map",
+    "index.html": "/crowdfunding-page-demo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/crowdfunding-page-demo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.55ef4b06.chunk.js.LICENSE.txt": "/crowdfunding-page-demo/static/js/2.55ef4b06.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/crowdfunding-page-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62952142.js",
+    "static/js/2.55ef4b06.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.963f0e10.chunk.js"
+  ]
+}
